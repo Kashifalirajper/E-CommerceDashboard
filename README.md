@@ -7,7 +7,7 @@ A comprehensive web-based admin dashboard designed for e-commerce managers to ha
 ## Table of Contents
 
 - [Features](#features)
-- [Demo] (#demo)
+- [Demo](#demo)
 - [Technical Stack](#technical-stack)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
