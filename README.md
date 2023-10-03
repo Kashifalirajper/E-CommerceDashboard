@@ -4,8 +4,6 @@ A comprehensive web-based admin dashboard designed for e-commerce managers to ha
 
 ![1696338127404](image/README/1696338127404.png)
 
-> Replace `screenshot-link.png` with an actual link to your dashboard's screenshot
-
 ## Table of Contents
 
 - [Features](#features)
