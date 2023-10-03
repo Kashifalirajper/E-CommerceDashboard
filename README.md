@@ -7,11 +7,11 @@ A comprehensive web-based admin dashboard designed for e-commerce managers to ha
 ## Table of Contents
 
 - [Features](#features)
+- [Demo] (#demo)
 - [Technical Stack](#technical-stack)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Additional Q&amp;A](#additional-q&a)
-- [Contribution](#contribution)
 - [License](#license)
 
 ## Features
@@ -31,11 +31,14 @@ A comprehensive web-based admin dashboard designed for e-commerce managers to ha
    - Form for adding new products to the inventory.
    - Option to upload product images.
 
+
+## Demo
+You can access the live version of the dashboard here: [E-Commerce Admin Dashboard Demo](https://ecommercedashboardlive.web.app/)
+
 ## Technical Stack
 
 - **Frontend:** Vue.js
-- **Backend:** Node.js
-- **Additional Libraries:** ag-grid (for grid features)
+- **Additional Libraries:** Vuetify (for other features)
 
 ## Setup and Installation
 
@@ -76,9 +79,6 @@ A comprehensive web-based admin dashboard designed for e-commerce managers to ha
 - **Considerations with TypeScript:** Adopting TypeScript can improve code reliability and predictability. Especially for e-commerce admin pages with many columns, TypeScript can help in type-checking and ensuring data consistency.
 - **Handling Datetime:** Always store and handle datetime in UTC. Convert to the user's timezone only when displaying. JavaScript's `Date` object and libraries like `moment-timezone` can be handy for these conversions.
 
-## Contribution
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#).
 
 ## License
 
